@@ -1,5 +1,5 @@
 # Pxtone OpenAL Example
-This shows how to use Pxtone in conjunction with OpenAL.
+This shows how to use Daisuke Amaya's Pxtone library in conjunction with OpenAL.
 ## Required Dependencies
 - [fmt](https://github.com/fmtlib/fmt)
 - [OpenAL](https://github.com/kcat/openal-soft)
