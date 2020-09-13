@@ -1,0 +1,21 @@
+# Editor
+**/.vs/
+**/.vscode/
+**/CMakeSettings.json
+
+# Python
+**/__pycache__/
+**/venv/
+
+# Build
+**/build/
+**/scratch/
+
+# Game
+**/AS_DEBUG/
+**/save/
+**/init/
+
+# Imgui
+imgui.ini
+imgui_log.txt
